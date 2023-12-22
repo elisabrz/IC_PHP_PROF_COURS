@@ -95,9 +95,9 @@ class ProfCoursTest extends TestCase
             new Cours("Cours7", "3", 5),       // idcours = 7   ** A SUPPRIMER **
             new Cours("Cours8", "4", 5),       // idcours = 8
             new Cours("Cours9", "3", 5),        // idcours = 9   ** A MODIFIER **
-            new Cours("IoT", "10", 1),       // idcours = 1
-            new Cours("IA", "12", 3),     // idcours = 2
-            new Cours("EDL", "5", 6),       // idcours = 3
+            new Cours("Cours 10", "10", 1),       // idcours = 1
+            new Cours("Cours 12", "12", 3),     // idcours = 2
+            new Cours("Cours 13", "5", 6),       // idcours = 3
             
             /**
             *
